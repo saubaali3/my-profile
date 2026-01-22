@@ -1,0 +1,75 @@
+.ice{
+    width: 60%;
+    height:40px;
+    background-color:darkgray;
+    margin: auto;
+    margin-bottom: 15px;
+    color: black;
+    padding-top: 15px;
+    padding-left: 30px;
+}
+.rose{
+    width: 60%;
+    height: 500px;
+    background-color: darkgray;
+    margin: auto;
+    margin-bottom: 10px;
+    background-color: azure;
+}
+.smiley{
+    width: 56%;
+    height: 120px;
+    background-color: darkgray;
+    margin: auto;
+    margin-bottom: 10px;
+    padding-left: 60px;
+}
+.dimond{
+  width: 60%;  
+  height: 50px;
+  background-color: darkgray;
+  margin: auto;
+  margin-bottom:10px;
+} 
+.donkey{
+    height: 35px;
+    background-color: grey;
+    font-size: x-large;
+    margin-top: 5px;
+}
+.dog{
+    height: 35px;
+    background-color: grey;
+    font-size: x-large;
+}
+.cat{
+    height: 35px;
+    background-color: grey;
+    font-size: x-large;
+}
+.banana{
+    height: 500px;
+    width: 50%;
+    background-color: red;
+    float: left;
+    padding-left: 20px;
+}
+.apple{
+    height: 500px;
+    width: 47%;
+    background-color: white;
+    float: right;
+}
+.opera{
+    height: 300px;
+    width: 96%;
+    background-color: goldenrod;
+    margin-bottom: 10px;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+.mini{
+    height: 170px;
+    width: 100%;
+    background-color: green;
+}

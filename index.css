@@ -1,0 +1,79 @@
+.cream{
+    width: 50%;
+    height: 45px;
+    background-color: darkgray;
+    margin: auto;
+    margin-bottom: 10px;
+    color: black;
+    padding-top: 10px;
+    padding-left: 30px;
+}
+.richaunty{
+    height: 30px;
+    background-color: grey;
+    font-size: x-large;
+    margin-top: 15px;
+}
+.uncle{
+    height: 30px;
+    background-color: grey;
+    font-size: x-large;
+}
+.papa{
+    height: 30px;
+    background-color: grey;
+    font-size: x-large;
+}
+.goat{
+    height: 500px;
+    width: 50%;
+    background-color: white;
+    margin: auto;
+    margin-bottom: 20px;
+
+}
+.pretty{
+    height: 500px;
+    width: 49%;
+    background-color: blueviolet;
+    float: left;
+    padding-left: 15px;
+}
+.cute{
+    height: 486px;
+    width: 47%;
+    background-color: crimson;
+    float: right;
+    padding-top: 15px;
+    padding-left: 10px;
+
+
+}
+.iphone{
+    height: 250px;
+    width: 50%;
+    background-color: greenyellow;
+    margin: auto;
+    margin-bottom: 20px;
+    padding-top: 15px;
+    padding-left: 10px;
+}
+.samsung{
+    height: 250px;
+    width: 50%;
+    background-color: grey;
+    margin: auto;
+    margin-bottom: 20px;
+    padding-left: 30px;
+    padding-top: 10px;
+}
+.bag{
+    height: 45px;
+    width: 30%;
+    background-color: bisque;
+    margin: auto;
+    font-size: large;
+    padding-top: 10px;
+    padding-left: 350px;
+
+}
