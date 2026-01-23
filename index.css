@@ -33,9 +33,9 @@
 
 }
 .pretty{
-    height: 500px;
+    height: 503px;
     width: 49%;
-    background-color: blueviolet;
+    background-color: lightcoral;
     float: left;
     padding-left: 15px;
 }
@@ -44,23 +44,23 @@
     width: 47%;
     background-color: crimson;
     float: right;
-    padding-top: 15px;
+    padding-top: 17px;
     padding-left: 10px;
 
 
 }
 .iphone{
-    height: 250px;
-    width: 50%;
+    height: 245px;
+    width: 49.6%;
     background-color: greenyellow;
     margin: auto;
-    margin-bottom: 20px;
+    margin-bottom: 15px;
     padding-top: 15px;
     padding-left: 10px;
 }
 .samsung{
-    height: 250px;
-    width: 50%;
+    height: 245px;
+    width: 48.5%;
     background-color: grey;
     margin: auto;
     margin-bottom: 20px;

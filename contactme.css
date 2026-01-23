@@ -3,55 +3,35 @@
     height: 45px;
     background-color: darkgray;
     margin: auto;
-    margin-bottom: 10px;
+    margin-bottom: 05px;
     color: black;
     padding-top: 10px;
     padding-left: 30px;
 }
 .cable{
     height: 30px;
-    background-color: rgb(126, 43, 43);
+    background-color: gray;
     font-size: x-large;
     margin-top: 15px;
 }
 .key{
     height: 30px;
-    background-color: rgb(156, 47, 47);
+    background-color: gray;
     font-size: x-large;
 }
 .board{
     height: 30px;
-    background-color: rgb(147, 64, 161);
+    background-color: gray;
     font-size: x-large;
 }
 .paper{
-    width: 50%;
+    width: 45.8%;
     height: 49px;
     background-color: deepskyblue;
     margin: auto;
     margin-bottom: 05px;
+    padding-left: 65px;
 }
-/* .at{
-    width: 49.5%;
-    margin-top: 05px;
-    margin-left: 250px;
-}
-.for{
-    width: 49.5%;
-    margin-left: 250px;
-    margin-top: 05px;
-}
-.me{
-    width: 49.5%;
-    margin-left: 250px;
-    margin-top: 05px;
-} */
-/* .is{
-    width: 17.5%;
-    margin-left: 250px;
-    margin-top: 05px;
-    padding-left: 250px;
-} */
 .mimi{
     width: 50%;
     height: 400px;
